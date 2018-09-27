@@ -62,11 +62,11 @@ disqus_username: liutianliang
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 2cdca1a88a4c6f6487e2                            #生成的clientID
+  clientSecret: 7f55cd705edde01af07ab0f577e6e31a957c1e69    #生成的clientSecret
   repo: l07152055.github.io    #仓库名称
-  owner: l07152055    #github用户名
-  admin: l07152055
+  owner: L07152055    #github用户名
+  admin: L07152055
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
